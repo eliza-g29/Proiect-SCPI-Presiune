@@ -1,3 +1,4 @@
+%varianta pe care am facut-o la laborator
 
 % Dimensiunile iesirilor pentru 145
 length(out11.out.simout1.Data)
