@@ -5,3 +5,4 @@
 # Cache Simulink
 *.slxc
 slprj/
+.DS_Store
